@@ -1,6 +1,6 @@
 Welcome to my profile 🤟
 # **Sinki'S**
-# 👋 Hello!! <br> My name is Gabriel and my nickname is "Sinki"!
+👋 Hello!! <br> My name is Gabriel and my nickname is "Sinki"!
 
 
 👀 I’m interested in ...
