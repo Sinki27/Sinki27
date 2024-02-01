@@ -4,7 +4,7 @@ Welcome to my profile 🤟
 👋 Hello!! <br> My name is Gabriel and my nickname is "Sinki"!
 
 ## Sobre min:
-Sou um jovem de 19 anos de São Paulo, explorador da area de programação adoro criar paginas web, com muita criatividade e com meus gostos, em musicas, games e filmes. Em meus passas tempos são estar jogando, cuidar do meu cachorro e estar com as pessoas que amo :heart_eyes:
+Sou um jovem de 19 anos de São Paulo, explorador da area de programação adoro criar paginas web, com muita criatividade e com meus gostos, em musicas, games e filmes. E meus passas tempos são estar jogando, cuidar do meu cachorro e estar com as pessoas que amo :heart_eyes:
 
 
 Descobri a programação ainda no ensino medio e atualmente estudo para ser um desenvolvedor fullstack  
