@@ -43,12 +43,12 @@
 
 <h2>Curiosidades</h2>
 
-Descobri a programação ainda no ensino medio e atualmente estudo para ser um desenvolvedor fullstack 
+Descobri a programação ainda no ensino medio e atualmente estudo para ser um desenvolvedor fullstack.
 
 
 🤓 Atualmente estudo linguagens voltadas para o front end, como o HTML5, CSS3 e JavaScript, passando a fundo por esta linguagens tenho vontade de aprender desenvolvimento mobile;<br>
 
-👀 Meus projetos principais estaram sempre aqui no github, mas para mais novidades e projetos novo no meu likedin e futuramente o youtube estaram com atualizações;<br>
+👀 Meus projetos principais estaram sempre aqui no GitHub, mas para mais novidades e projetos novo no meu linkedin e futuramente o youtube estaram com atualizações;<br>
 
 🌱 Em horas vagas, estou a jogar Destiny ou fifa.<br>
 
