@@ -48,7 +48,7 @@
   
   👀 Meus projetos principais estaram sempre aqui no GitHub, mas para mais novidades e projetos novo no meu linkedin e futuramente o youtube estaram com atualizações;<br>
   
-  🌱 Em horas vagas, estou a jogar Destiny ou fifa.<br>
+  🌱 Em horas vagas, estou a jogar Destiny ou Fifa.<br>
   
   📫 Para contato e possiveis conversas meu email e linkedin abaixo
 </p>
@@ -56,14 +56,14 @@
 <h2 align="center"> Contatos: </h2>
 
 <div align="center">
-<a href = "https://github.com/Sinki27/Sinki27/blob/main/bar120bosa@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/gabriel-guilherme-70101b246" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href = "https://github.com/Sinki27/Sinki27/blob/main/gabrielguilherme3628@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/gabriel-guilherme-20a07839b/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 
 
 ```
-bar120bosa@gmail.com
+gabrielguilherme3628@gmail.com
 ```
 
 <!--
