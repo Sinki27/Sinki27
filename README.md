@@ -13,9 +13,9 @@
 
 <h2 align="center">Sobre min:</h2>
 <p text-align="justify">
-  I'm a 19-year-old young man from São Paulo, an explorer in the area of ​​programming, I love creating web pages, with a lot of creativity and inspiration, in music, games and films. Speaking of music, it's something I really like, in my free time and even when programming I'm listening to something. The most things I like to do are take care of my dog ​​and be with the people I love. :heart_eyes:
+  I'm a 20-year-old young man from São Paulo, an explorer in the area of ​​programming, I love creating web pages, with a lot of creativity and inspiration, in music, games and films. Speaking of music, it's something I really like, in my free time and even when programming I'm listening to something. The most things I like to do are take care of my dog ​​and be with the people I love. :heart_eyes:
   
-  Sou um jovem de 19 anos de São Paulo, explorador da area de programação adoro criar paginas web, com muita criatividade e com inspirações, em musicas, games e filmes. Falando em musica é algo que eu gosto demais, em meu tempo livre e ate programando estou ouvindo algo. Mais coisas que gosto de fazer é cuidar de meu cachorro e estar com as pessoas que amo :heart_eyes:
+  Sou um jovem de 20 anos de São Paulo, explorador da area de programação adoro criar paginas web, com muita criatividade e com inspirações, em musicas, games e filmes. Falando em musica é algo que eu gosto demais, em meu tempo livre e ate programando estou ouvindo algo. Mais coisas que gosto de fazer é cuidar de meu cachorro e estar com as pessoas que amo :heart_eyes:
 </p>
 
 <p align="center">
