@@ -1,26 +1,37 @@
-<h1 align="center">Sinki'S</h1>
+<h1 align="center"> - Gabriel - </h1>
 
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=900&color=15F5BA&random=false&width=435&lines=Ol%C3%A1+dev+este+é+meu+perfil;Sou+desenvolvedor+Front+End;A+estudar+React+e+back+end)](https://git.io/typing-svg)
 
 </div>
- 
+
+ <!--
   <p align="center">
     <img loading="lazy" height="350em" src="https://github.com/Sinki27/Sinki27/blob/main/PaisagemTitulo.png"/>
   </p>
- 
+ -->
 
 <h2 align="center">Sobre min:</h2>
 <p text-align="justify">
-  I'm a 20-year-old young man from São Paulo, an explorer in the area of ​​programming, I love creating web pages, with a lot of creativity and inspiration, in music, games and films. Speaking of music, it's something I really like, in my free time and even when programming I'm listening to something. The most things I like to do are take care of my dog ​​and be with the people I love. :heart_eyes:
-  
-  Sou um jovem de 20 anos de São Paulo, explorador da area de programação adoro criar paginas web, com muita criatividade e com inspirações, em musicas, games e filmes. Falando em musica é algo que eu gosto demais, em meu tempo livre e ate programando estou ouvindo algo. Mais coisas que gosto de fazer é cuidar de meu cachorro e estar com as pessoas que amo :heart_eyes:
+  Sou estudante de Análise e Desenvolvimento de Sistemas e um entusiasta da tecnologia em constante evolução. Meu objetivo principal é ingressar no mercado de TI e contribuir com soluções inovadoras através do código.
+
+🎓 Formação: Cursando Análise e Desenvolvimento de Sistemas.
+
+📖 Estudando atualmente: Estrutura de dados, JavaScript e frameworks modernos.
+
+🎯 Objetivo: Transição de carreira para Desenvolvimento de Software.
+
+🛠️ Tech Stack: Php, Java, JavaScript, Python, SQL, HMTL5 e CSS3.
+
+Estou sempre em busca de novos desafios e projetos que me ajudem a crescer como profissional de tecnologia.
 </p>
 
+<!--
 <p align="center">
 <img loading="lazy" src="https://github.com/Sinki27/Sinki27/blob/main/dj-doggy-dog.gif"/>
 </p>
+
 
 <h2 align="center">Habilidades e Softwares: </h2>
 
@@ -38,28 +49,29 @@
   ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
   ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 </div> <br>
+-->
 
 <h2 align="center" >Curiosidades</h2>
 
 <p text-align="justify">
-  Descobri a programação ainda no ensino medio e atualmente estudo para ser um desenvolvedor fullstack.
+  Descobri a programação no ensino medio tecnico e atualmente estudo para ser um desenvolvedor fullstack.
   
-  🤓 Atualmente estudo linguagens voltadas para o front end, como o HTML5, CSS3 e JavaScript, passando a fundo por esta linguagens tenho vontade de aprender desenvolvimento mobile;<br>
+  🤓 Atualmente estudo linguagens voltadas para o back-end, como o JavaScript e Node.Js, pensando no futuro gostaria de desenvolver em mobile;<br>
   
-  👀 Meus projetos principais estaram sempre aqui no GitHub, mas para mais novidades e projetos novo no meu linkedin e futuramente o youtube estaram com atualizações;<br>
+  👀 Meus projetos principais eu posto sempre aqui no GitHub, mas para mais novidades em meu Linkedin <a href="https://www.linkedin.com/in/gabriel-guilherme-20a07839b/" target="_blank"> 'Gabriel Guilherme' </a> e no meu Instagram <a href="https://www.instagram.com/sinkidev27/" target="_blank">'Sinkidev27'</a> saem as novidades de todos os meus projetos e estudos;<br>
   
-  🌱 Em horas vagas, estou a jogar Destiny ou Fifa.<br>
+  😴 Em horas vagas, estou a escrever ou lendo.<br>
   
-  📫 Para contato e possiveis conversas meu email e linkedin abaixo
+  📫 Para contato e possiveis conversas meu Linkedin e email abaixo:
 </p>
 
-<h2 align="center"> Contatos: </h2>
-
+<h2 align="center"> E-mail: </h2>
+<!--
 <div align="center">
 <a href = "https://github.com/Sinki27/Sinki27/blob/main/gabrielguilherme3628@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/gabriel-guilherme-20a07839b/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
+-->
 
 
 ```
